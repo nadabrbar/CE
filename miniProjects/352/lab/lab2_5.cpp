@@ -3,7 +3,7 @@
 void fibonaci(int);
 void main(){
 int terms;
-cout<<"enter how many term= ";
+cout<<"enter how many term= "; //jomana and reham 
 cin>>terms;
 fibonaci(terms);
 getch();
